@@ -1,0 +1,15 @@
+/home/ali/Desktop/ros2_nav2_tb/install/turtlebot3_simulations/share/ament_index/resource_index/package_run_dependencies/turtlebot3_simulations
+/home/ali/Desktop/ros2_nav2_tb/install/turtlebot3_simulations/share/ament_index/resource_index/parent_prefix_path/turtlebot3_simulations
+/home/ali/Desktop/ros2_nav2_tb/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/ament_prefix_path.sh
+/home/ali/Desktop/ros2_nav2_tb/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/ament_prefix_path.dsv
+/home/ali/Desktop/ros2_nav2_tb/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/path.sh
+/home/ali/Desktop/ros2_nav2_tb/install/turtlebot3_simulations/share/turtlebot3_simulations/environment/path.dsv
+/home/ali/Desktop/ros2_nav2_tb/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.bash
+/home/ali/Desktop/ros2_nav2_tb/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.sh
+/home/ali/Desktop/ros2_nav2_tb/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.zsh
+/home/ali/Desktop/ros2_nav2_tb/install/turtlebot3_simulations/share/turtlebot3_simulations/local_setup.dsv
+/home/ali/Desktop/ros2_nav2_tb/install/turtlebot3_simulations/share/turtlebot3_simulations/package.dsv
+/home/ali/Desktop/ros2_nav2_tb/install/turtlebot3_simulations/share/ament_index/resource_index/packages/turtlebot3_simulations
+/home/ali/Desktop/ros2_nav2_tb/install/turtlebot3_simulations/share/turtlebot3_simulations/cmake/turtlebot3_simulationsConfig.cmake
+/home/ali/Desktop/ros2_nav2_tb/install/turtlebot3_simulations/share/turtlebot3_simulations/cmake/turtlebot3_simulationsConfig-version.cmake
+/home/ali/Desktop/ros2_nav2_tb/install/turtlebot3_simulations/share/turtlebot3_simulations/package.xml

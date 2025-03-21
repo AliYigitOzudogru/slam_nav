@@ -1,0 +1,24 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ali/Desktop/slam_with_nav2/build/slam_nav2",
+        "/home/ali/Desktop/slam_with_nav2/install/slam_nav2/lib/python3.10/site-packages",
+        "/home/ali/Desktop/denemeros/install/my_pkg/lib/python3.10/site-packages",
+        "/home/ali/Desktop/ros2crash_ws/install/aero_nav/lib/python3.10/site-packages",
+        "/home/ali/Desktop/rosclia/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/ali/Desktop/rosclia/install/my_py_node/lib/python3.10/site-packages",
+        "/home/ali/ros2_ws/install/firspack/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ali/Desktop/slam_with_nav2/build/slam_nav2",
+        "/home/ali/Desktop/slam_with_nav2/install/slam_nav2/lib/python3.10/site-packages",
+        "/home/ali/Desktop/denemeros/install/my_pkg/lib/python3.10/site-packages",
+        "/home/ali/Desktop/ros2crash_ws/install/aero_nav/lib/python3.10/site-packages",
+        "/home/ali/Desktop/rosclia/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/ali/Desktop/rosclia/install/my_py_node/lib/python3.10/site-packages",
+        "/home/ali/ros2_ws/install/firspack/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
